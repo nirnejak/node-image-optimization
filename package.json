@@ -1,0 +1,21 @@
+{
+  "name": "so-image-optimization",
+  "version": "1.0.0",
+  "description": "Image Optimization Function",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Image",
+    "Optimization"
+  ],
+  "author": "Jitendra Nirnejak",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.29.0"
+  },
+  "volta": {
+    "node": "14.17.5"
+  }
+}
