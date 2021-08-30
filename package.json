@@ -1,5 +1,5 @@
 {
-  "name": "so-image-optimization",
+  "name": "node-image-optimization",
   "version": "1.0.0",
   "description": "Image Optimization Function",
   "main": "index.js",
